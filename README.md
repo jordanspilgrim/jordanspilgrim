@@ -10,5 +10,8 @@ Product, technology and program leader. I build the teams, programs and operatin
 Tools I've built while working with coding agents.
 
 - **[DLB (Dead Letter Box)](https://github.com/jordanspilgrim/dlb-mcp)**: lets two or more coding agents in separate terminals pass tasks and messages through a shared local store, and track whether work was accepted, started or finished. Model-agnostic, MIT-licensed, on PyPI.
+- **[Keel](https://github.com/jordanspilgrim/keel)**: a proof of concept, an agent that handles subscription cancellations, grades each conversation and groups the results into churn themes.
+- **[Plume](https://github.com/jordanspilgrim/plume)**: a Markdown editor for macOS for reading and editing the files coding agents write.
+- **[Harness](https://github.com/jordanspilgrim/harness)**: a reusable Claude Code setup with agent roles, commands and hooks for each stage of building software.
 
 [LinkedIn](https://www.linkedin.com/in/ggiordani)
